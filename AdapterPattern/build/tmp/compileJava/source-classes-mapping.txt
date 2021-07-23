@@ -1,0 +1,14 @@
+library/StandardCalculator.java
+ library.StandardCalculator
+library/AmazingAdapter.java
+ library.AmazingAdapter
+Application.java
+ Application
+library/TeslaCalculator.java
+ library.TeslaCalculator
+library/AppleCalculator.java
+ library.AppleCalculator
+library/AmazingCalculator.java
+ library.AmazingCalculator
+service/CalculateService.java
+ service.CalculateService
