@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="appliance.SpeakerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-07-25T13:17:22" hostname="gangsang-uui-MacBookPro.local" time="0.049">
+  <properties/>
+  <testcase name="baseSoundIs50()" classname="appliance.SpeakerTest" time="0.045"/>
+  <testcase name="upMethodShouldUp10()" classname="appliance.SpeakerTest" time="0.001"/>
+  <testcase name="downMethodShouldDown10()" classname="appliance.SpeakerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

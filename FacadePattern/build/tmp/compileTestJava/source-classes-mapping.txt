@@ -1,0 +1,6 @@
+appliance/BeamProjectorTest.java
+ appliance.BeamProjectorTest
+appliance/LightTest.java
+ appliance.LightTest
+appliance/SpeakerTest.java
+ appliance.SpeakerTest
